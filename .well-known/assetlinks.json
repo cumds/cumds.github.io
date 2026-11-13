@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cumds.jalsa",
+        "sha256_cert_fingerprints": ["1A:C3:93:74:D7:F6:B8:BD:32:45:2A:70:11:D7:48:E6:B8:F7:DF:47:E2:06:43:C1:B1:91:07:3D:E4:72:09:D7"]
+      }
+    }]
